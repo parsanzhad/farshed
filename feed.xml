@@ -4,9 +4,9 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>Hossein Karami</title>
+    <title>farshed parsanzhad</title>
     <link href="http://hosseinkarami.com/feed.xml" rel="self" />
-    <link href="http://hosseinkarami.com/" />
+    <link href="http://farshed.ir/" />
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>http://hosseinkarami.com</id>
     <author>
